@@ -1,3 +1,1 @@
-# RTA projekt
-
-Analiza danych w czasie rzeczywistym - projekt
+# Analiza danych w czasie rzeczywistym - projekt
